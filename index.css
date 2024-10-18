@@ -1,8 +1,8 @@
 section{
     display: flex;
-    align-items: center;
+    height: 500px;
     width: 100%;
-    height: 430px;
+    
 }
 
 section img{
