@@ -1,4 +1,20 @@
-
+.album{
+    display: flex;                /* Activar Flexbox */
+    justify-content: center;       /* Centrar horizontalmente */
+    align-items: center;           /* Centrar verticalmente */
+    height: 100vh;                 /* Altura completa de la página */
+    margin: 0; 
+    text-decoration: none;
+    font-size: 30px;
+    color: #ffc5c5;
+    text-transform: uppercase;
+    background-image: url(Elena&AlexBoda.jpg);
+    background-size: cover;   /* Ajustar el tamaño para que cubra toda la pantalla */
+    background-position: center; /* Centrar la imagen */
+    background-repeat: no-repeat; /* Evitar que se repita */
+    height: 100vh; /* Asegurar que el fondo cubra toda la altura de la pantalla */
+    
+}
 
 section{
     display: flex;
