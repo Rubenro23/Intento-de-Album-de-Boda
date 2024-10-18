@@ -17,10 +17,9 @@
 }
 
 section{
-    display: flex;                /* Activar Flexbox */
-    justify-content: center;       /* Centrar horizontalmente */
-    align-items: center;
-    height: 100vh;  
+    display: flex;
+    height: 500px;
+    width: 100%;
 }
 
 
